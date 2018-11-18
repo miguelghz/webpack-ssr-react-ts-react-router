@@ -1,6 +1,6 @@
 # webpack-ssr-react-ts-react-router
 
-Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16, React Router 4 with Typescript 3 & SASS
+Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16, React Router 4, Typescript 3 & SASS
 
 ![Webpack simple](node-ts-react.png)
 
